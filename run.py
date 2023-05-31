@@ -119,7 +119,7 @@ def base_pw():
 
 
 
-list_harga = "[1] Welcome Reward 5GB ==> Rp 1\n[2] (NEW) 10GB 30 Hari ==> Rp 15000\n[3] (NEW) 15GB 30 Hari ==> Rp 20000\n[4] 25GB 25rb (Diskon) ==> Rp 25000\n[5] 25GB 24 Jam 20 Hari ==> Rp 25000\n[6] (NEW) 25GB 20 Hari ==> Rp 25000\n[7] (NEW) 25GB 20 Hari ==> Rp 25000\n[8] 25GB 24 Jam 30 Hari ==> Rp 29000\n[9] (NEW) 25GB 30 Hari ==> Rp 29000\n[10] (NEW) 55GB 30 Hari ==> Rp 50000\n[11] (NEW) 65GB 30 Hari ==> Rp 60000\n[12] (NEW) 75GB 30 Hari ==> Rp 75000\n[13] (NEW) 90GB 30 Hari ==> Rp 90000\n[14] (NEW) 100GB 30 Hari ==> Rp 90000\n"
+list_harga = "[1] Welcome Reward 5GB ==> Rp 1\n[2] (NEW) 10GB 30 Hari ==> Rp 15000\n[3] (NEW) 15GB 30 Hari ==> Rp 20000\n[4] 25GB 25rb (Diskon) ==> Rp 25000\n[5] 25GB 24 Jam 20 Hari ==> Rp 25000\n[6] (NEW) 25GB 20 Hari ==> Rp 25000\n[7] (NEW) 25GB 20 Hari ==> Rp 25000\n[8] 25GB 24 Jam 30 Hari ==> Rp 29000\n[9] (NEW) 25GB 30 Hari ==> Rp 29000\n[10] (NEW) 55GB 30 Hari ==> Rp 50000\n[11] (NEW) 65GB 30 Hari ==> Rp 60000\n[12] (NEW) 75GB 30 Hari ==> Rp 75000\n[13] (NEW) 90GB 30 Hari ==> Rp 90000\n[15] (NEW) 22GB 30 Hari ==> Rp 30000\n[14] (NEW) 100GB 30 Hari ==> Rp 90000\n"
 
 
 inp = input('Masukan Password License : ')
