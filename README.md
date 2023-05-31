@@ -10,6 +10,6 @@ Tutorialnya
 - apt install python
 - apt install git
 - apt install php
-- git clone https://github.com/tahaluindo/TembakKouta-TRI
-- cd TembakKouta-TRI
+- git clone https://github.com/amgeekz/tembak-tri
+- cd tembak-tri
 - python run.py
