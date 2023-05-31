@@ -110,7 +110,7 @@ class tri:
     return log
 
 def base_pw():
-    base64_message = 'dGFoYWx1aW5kbw=='
+    base64_message = 'YW1nZWVreg=='
     base64_bytes = base64_message.encode('ascii')
     message_bytes = base64.b64decode(base64_bytes)
     message = message_bytes.decode('ascii')
@@ -179,6 +179,8 @@ if inp == base_pw():
                 prod = "25476"
             elif pilihan == "14":
                 prod = "25693"
+            elif pilihan == "15":
+                prod = "28650"
             else:
                 print('Masukin yang bener!')
 
